@@ -1,9 +1,5 @@
 scikit-learn
 numpy
-pandas
-matplotlib
-seaborn
-flask
 gunicorn
 streamlit
 pillow
