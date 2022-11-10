@@ -4,4 +4,4 @@ gunicorn
 streamlit
 pillow
 flask
-opencv-python
+opencv-python-headless
