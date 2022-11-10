@@ -4,3 +4,4 @@ gunicorn
 streamlit
 pillow
 flask
+open-cv
