@@ -2,7 +2,6 @@
 
 from img import image_classification
 import streamlit as st
-import keras
 from PIL import Image, ImageOps
 import numpy as np
 import pickle
