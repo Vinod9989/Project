@@ -1,7 +1,6 @@
-scikit-learn
+scikit-image
 numpy
 gunicorn
 streamlit
 pillow
-keras
-tensorflow
+flask
